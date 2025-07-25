@@ -1,2 +1,3 @@
 # A-user-information-finder-for-Minecraft
-Find some Minecraft users'information with Python
+A lightweight Python app to find some Minecraft users'information
+In Development...
